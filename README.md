@@ -161,7 +161,7 @@ git push origin your-branch-name
 - This command uploads your local branch to the remote repository.
 - Which means, upload the changes you've made to the main project.
 
-### **Part 5: Opening a Pull Request** (very, very important)
+### **Part 3: Opening a Pull Request** (very, very important)
 
 #### 1.  **Go to GitHub:**
 Open your web browser and navigate to the GitHub repository you cloned (e.g., `https://github.com/username/repository-name`).
