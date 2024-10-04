@@ -18,11 +18,11 @@ This quick start guide will cover setting up Git, cloning a repository, making c
 - Thông cảm nha, guide hơi sơ sài và thiếu hình ảnh. Đọc với thử xong mà mọi người vẫn muốn có 1 buổi meet chỉ cụ thể trong VS Code thì bảo t nhé
 
 ### **📢 2. Thực hành luôn nha**
-
 Mọi người thực hành luôn với repo này nhé (cách lấy link git repo trong ảnh dưới). 🚨 Đọc xong thì làm:
-1. Tạo một file `<tên mình>.txt' ở trong repo này
-2. Chỉnh sửa file `members.py` để thêm dòng `print("<tên mình>")`
-3. Stage all changes (`git add .`), commit, push/open pull request
+> [!IMPORTANT]
+> 1. Tạo một file `<tên mình>.txt' ở trong repo này
+> 2. Chỉnh sửa file `members.py` để thêm dòng `print("<tên mình>")`
+> 3. Stage all changes (`git add .`), commit, push/open pull request
 
 ![demo_git repo img](image.png)
 
@@ -116,6 +116,9 @@ git checkout -b your-branch-name
 
 - This command creates a new branch and switches you to it.
 - Replace `your-branch-name` with a descriptive but short name for your branch (e.g. `feature-fire_bullet`, `feature-new_button`, `bugfix-login_issue`).
+
+> [!TIP]
+About branches
 
 **What?**
 
