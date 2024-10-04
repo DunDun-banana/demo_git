@@ -1,8 +1,33 @@
+<div align="center">
+  <img src="https://git-scm.com/images/logos/downloads/Git-Logo-1788C.svg?raw=true" width="60%" alt="git" />
+</div>
+
+
+<br>
+
 # **Git and Github 101** *(actually just enough to colab)*
 
 This quick start guide will cover setting up Git, cloning a repository, making changes, and submitting your work through pull requests with detailed instructions.
 
-## **A. Initial Setup**
+
+## **!! 📝 Notes:**
+
+### **1. Disclaimers**
+- Mọi người ơi t chỉ viết sơ qua thôi nhá, cái này cũng không ngắn và không đơn giản lắm nên có gì hỏi AI hoặc xem video/guide bên ngoài nhé
+- Nếu có gì mắc vẫn không hiểu thì có thể hỏi t sau nha (dù t cũng không dám chắc vì t vừa tải git về chưa được 1 tuần =)))
+- Thông cảm nha, guide hơi sơ sài và thiếu hình ảnh. Đọc với thử xong mà mọi người vẫn muốn có 1 buổi meet chỉ cụ thể trong VS Code thì bảo t nhé
+
+### **📢 2. Thực hành luôn nha**
+
+Mọi người thực hành luôn với repo này nhé (cách lấy link git repo trong ảnh dưới). 🚨 Đọc xong thì làm:
+1. Tạo một file `<tên mình>.txt' ở trong repo này
+2. Chỉnh sửa file `members.py` để thêm dòng `print("<tên mình>")`
+3. Stage all changes (`git add .`), commit, push/open pull request
+
+![demo_git repo img](image.png)
+
+
+## **🛠️ A. Initial Setup**
 
 ### **Part 1: Setting up Git**
 
@@ -71,7 +96,7 @@ C:\Users\yourusername\NEU\Python\
 
 ---
 
-## **B. Editing, Saving, and Syncing changes** (the important part)
+## **✏️ B. Editing, Saving, and Syncing changes** (the important part)
 
 ### **Part 1: Making Changes**
 
