@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://git-scm.com/images/logos/downloads/Git-Logo-1788C.svg?raw=true" width="60%" alt="git" />
+  <img src="https://git-scm.com/images/logos/downloads/Git-Logo-1788C.svg?raw=true" width="60%" alt="git logo" />
 </div>
 
 
@@ -41,6 +41,9 @@ You've probably all downloaded Git so I'll skip the installation part:)
 
 Git needs to know who you are to track your contributions. Set your name and email using the following commands:
 
+> [!TIP]
+> Remember the double quotes
+
 ```bash
 git config --global user.name "Your Name"
 ```
@@ -75,7 +78,10 @@ C:\Users\yourusername\NEU\Python\
 └── some_file.txt 
 ```
 
-**Cloning Directly into the Current Folder:** *(remember the dot at the end of git clone)*
+**Cloning Directly into the Current Folder:** 
+
+> [!TIP]
+> Remember the dot at the end of `git clone`
 
 ```bash
 cd C:\Users\yourusername\Documents\Python\Project
