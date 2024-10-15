@@ -1,3 +1,3 @@
 print("Hck")
-print("Dundun")
+print("Dun")
 
